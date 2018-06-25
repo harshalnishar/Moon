@@ -15,8 +15,8 @@ I recently joined Aditya Imaging Information Technology (AIIT) as Imaging Scient
 Design Engineer at Vision processor developement team at Tensilica (Cadence).
 
 In my free time I like to learn Sitar, listen to hindustani classical and fusion music and attend music concerts.
-I am also a cycling and swimming entusiast and ocationally go for trekking. When I do none of these, I prefer watching some serious drama movies.
-Currently I am working on developing reading as a hoby.
+I am also a cycling and swimming enthusiast and occasionally go for trekking. When I do none of these, I prefer watching some serious drama movies.
+Currently I am working on developing reading as a hobby.
 
 If you find me interesting from above description, then do connect to me.
 
