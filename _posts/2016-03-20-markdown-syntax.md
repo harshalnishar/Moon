@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title:  "Markdown Syntax"
 date:   2016-03-15
@@ -62,10 +63,18 @@ HTML and CSS are our tools. Mauris a ante. Suspendisse quam sem, consequat at, c
 ## Tables
 
 | Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
+|:---
+published: false---
+published: false--|:---
+published: false---
+published: false
+published: false-:|---
+published: false---
+published: false--:|
 | cell1   | cell2   | cell3   |
 | cell4   | cell5   | cell6   |
-|----
+|---
+published: false-
 | cell1   | cell2   | cell3   |
 | cell4   | cell5   | cell6   |
 |=====

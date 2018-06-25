@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title: Syntax Highlighting Post
 date: 2013-08-16

@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title:  "Moon Jekyll Theme"
 date:   2016-04-06
@@ -40,6 +41,7 @@ That's all.
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=3 %}
 
 ---
+published: false
 
 {% capture images %}
 	https://cloud.githubusercontent.com/assets/754514/14509718/61b09a20-01d6-11e6-8da1-4202ae4d83cd.png
@@ -103,6 +105,7 @@ It's enabled. But if you don't want to use it. Set it false in  `_config.yml`.
 Set your disqus shortname in `_config.yml` to use comments.
 
 ---
+published: false
 
 ### Navigation Links
 
@@ -126,6 +129,7 @@ To set what links appear in the top navigation edit `_data/navigation.yml`. Use 
 {% endhighlight %}
 
 ---
+published: false
 
 ## Layouts and Content
 
@@ -148,12 +152,14 @@ feaure: http://example.com/some-image.png
 To show disqus comments for your post add `comments: true` to your post's front matter.
 
 ---
+published: false
 
 ## Questions?
 
 Found a bug or aren't quite sure how something works? By all means [file a GitHub Issue](https://github.com/TaylanTatli/Moon/issues/new). And if you make something cool with this theme feel free to let me know.
 
 ---
+published: false
 
 ## License
 

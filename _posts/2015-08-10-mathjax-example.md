@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title:  "MathJax Example"
 date:   2015-08-10

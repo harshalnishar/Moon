@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title: "Post with Image Feature"
 date: 2012-05-23
