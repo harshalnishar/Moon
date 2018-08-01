@@ -5,7 +5,7 @@ title: "Dhvani"
 date: 2018-08-03
 excerpt: "A photo tribute to my beloved Dhvani"
 tags: [gift, images, tribute]
-feature: '../assets/img/dhvani/engagement_flying_kiss.jpg'
+feature: 'assets/img/dhvani/engagement_flying_kiss.jpg'
 comments: true
 ---
 
