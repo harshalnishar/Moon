@@ -16,7 +16,7 @@ Here are some examples of what a post with images might look like. If you want t
 
 <figure>
 	<img src="./assets/img/dhvani/engagement_heart.jpg">
-
+</figure>
 
 <figure>
 	<a href="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_b.jpg"><img src="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg"></a>
