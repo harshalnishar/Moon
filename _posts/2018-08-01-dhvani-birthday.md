@@ -15,7 +15,7 @@ Here are some examples of what a post with images might look like. If you want t
 #### One Up
 
 <figure>
-	<a href="/assets/img/dhvani/engagement_heart.jpg">
+	<img src="/assets/img/dhvani/engagement_heart.jpg">
 
 
 <figure>
