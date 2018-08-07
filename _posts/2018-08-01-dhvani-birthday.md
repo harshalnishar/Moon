@@ -21,7 +21,7 @@ Even if we are physically seperated by huge distance, you stay very close to my 
 <figure class="half">
     <img src="../assets/img/dhvani/close1.jpg">
     <img src="../assets/img/dhvani/close2.jpg">
-    <figcaption> So much close to each other </figcaption>
+    <figcaption> We are so much close to each other </figcaption>
 </figure>
 
 
