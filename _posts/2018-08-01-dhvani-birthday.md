@@ -21,7 +21,7 @@ Even if we are physically seperated by huge distance, you stay very close to my 
 <figure class="half">
     <img src="../assets/img/dhvani/close1.jpg">
     <img src="../assets/img/dhvani/close2.jpg">
-    <figcaption> So much close to each other </figcaption>
+    <figcaption> We are so much close to each other </figcaption>
 </figure>
 
 
@@ -51,7 +51,6 @@ My love for you will only incease with time.
 	<figcaption> Some of our most lovely moments together </figcaption>
 </figure>
 
-
 Thank you for this wonderful gift:
 
 When I miss you...
@@ -63,9 +62,11 @@ When I think of you, I have an overwhelming desire of to simply wrap you up in h
 But I can wait... because the anticipation of seeing you again will only sweeten that moment when we're together once more.
 
 
+<!---
 {% capture images %}
 	http://vignette2.wikia.nocookie.net/naruto/images/9/97/Hinata.png
 	http://vignette4.wikia.nocookie.net/naruto/images/7/79/Hinata_Part_II.png
 	http://vignette1.wikia.nocookie.net/naruto/images/1/15/J%C5%ABho_S%C5%8Dshiken.png
 {% endcapture %}
 {% include gallery images=images caption="Test images" cols=3 %}
+--->
