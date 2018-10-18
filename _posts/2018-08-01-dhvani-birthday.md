@@ -53,17 +53,17 @@ My love for you will only incease with time.
 
 Thank you for this wonderful gift:
 
->> #### When I miss you...
->>
->> I close my eyes and imagine you near.
->>
->> I think of your arms around me pooling me so close.
->>
->> The sound of your voice, the smell of your skin, how the slightest brush of your hand makes me tingle...
->>
->> When I think of you, I have an overwhelming desire to simply wrap you up in hugs and smother you with kisses.
->>
->> But I can wait... because the anticipation of seeing you again will only sweeten that moment when we're together once more.
+> #### When I miss you...
+>
+> I close my eyes and imagine you near.
+>
+> I think of your arms around me pooling me so close.
+>
+> The sound of your voice, the smell of your skin, how the slightest brush of your hand makes me tingle...
+>
+> When I think of you, I have an overwhelming desire to simply wrap you up in hugs and smother you with kisses.
+>
+> But I can wait... because the anticipation of seeing you again will only sweeten that moment when we're together once more.
 
 
 <!---
