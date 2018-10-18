@@ -51,6 +51,18 @@ My love for you will only incease with time.
 	<figcaption> Some of our most lovely moments together </figcaption>
 </figure>
 
+
+Thank you for this wonderful gift:
+
+When I miss you...
+
+I close my eyes and imagine you near.
+I think of your arms around me pooling so close.
+The sound of your voice, the smell of your skin, how the slighted brush of your hand makes me tingle...
+When I think of you, I have an overwhelming desire of to simply wrap you up in hugs and smother you with kisses.
+But I can wait... because the anticipation of seeing you again will only sweeten that moment when we're together once more.
+
+
 {% capture images %}
 	http://vignette2.wikia.nocookie.net/naruto/images/9/97/Hinata.png
 	http://vignette4.wikia.nocookie.net/naruto/images/7/79/Hinata_Part_II.png
